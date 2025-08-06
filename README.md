@@ -31,8 +31,8 @@ El microservicio Computer se encarga de gestionar las entidades informáticas, e
 | POST   | `/computer`                | Crear computadora.                     |
 | GET    | `/computer`                | Listar todas las computadoras.         |
 | GET    | `/computer/{id}`           | Obtener computadora por ID.            |
-| DELETE | `/reports/{id}`            | Eliminar computadora por ID.           |
-| UPDATE | `/reports/{id}`            | Actualizar computadora por ID.         |
+| DELETE | `/computer/{id}`           | Eliminar computadora por ID.           |
+| UPDATE | `/computer/{id}`           | Actualizar computadora por ID.         |
 --------------------------------------------------------------------------------
 ##  Ejecución
 
